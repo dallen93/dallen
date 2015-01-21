@@ -1,3 +1,3 @@
 # dallen
 Code is fun. Fun is code. 
-lyle.smu.edu./~dallen
+lyle.smu.edu/~dallen
