@@ -1,3 +1,3 @@
 # dallen
 Code is fun. Fun is code.
-View my website at: lyle.smu.edu/~dallen/dallen/
+View my website at: <a href="lyle.smu.edu/~dallen/dallen/"> </a>
