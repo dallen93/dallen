@@ -2,10 +2,10 @@ My user is someone who is interested in Men's dresswear. This is typically, but 
 
           | Men's Warehouse | Joseph A. Bank | Culwell & Son
 ----------|-----------------|----------------|---------------
-Useful |+
-Learnable |+
-Memorable |+
-Effective |+
-Efficient |+
-Desirable |+
-Delightful |+
+Useful |     +              |       +        |          +
+Learnable |       +         |       +         |         -
+Memorable |       +         |       -         |         +
+Effective |       +         |       -         |         -
+Efficient |       +         |       -         |         -
+Desirable |       +         |       -         |         +
+Delightful |       +        |       +         |         +
