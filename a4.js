@@ -6,3 +6,7 @@
     document.body.bgColor = color1;
  }
  
+//A4.2
+ <script type="text/javascript">
+     alert(document.title);
+ </script>
