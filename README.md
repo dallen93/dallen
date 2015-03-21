@@ -12,4 +12,4 @@ View my Apiary Mocked Endpoint to GET an Object Collection Here: <a href="http:/
 
 View my Apiary Mocked Endpoint to GET a Single Object Here: <a href="http://private-54400-dallengui2015.apiary-mock.com/cart/id"> Single Object </a>
 
-https://travis-ci.org/dallen93/dallen.svg?branch=master
+<img src="https://travis-ci.org/dallen93/dallen.svg?branch=master">
