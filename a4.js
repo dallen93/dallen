@@ -3,13 +3,13 @@
 
 //A4.1
  function setBgColor (color) {
-    document.body.bgColor = color1;
+    document.body.bgColor = color;
  }
  
 //A4.2
- <script type="text/javascript">
-     alert(document.title);
- </script>
+ function alertTitle {
+	alert(document.title);
+}
 
 //A4.3
  function validateEmail(email) { 
