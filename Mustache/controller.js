@@ -12,8 +12,8 @@ $.get('merchandise-list.mst', function(template) {
     });
 }
 
-function addMerchandise() {
-$.get('add-merchandise.mst', function(template) {
+function viewMerchDetails() {
+$.get('view-merch-details.mst', function(template) {
     $.getJSON(
         'http://private-54400-dallengui2015.apiary-mock.com/cart',
         {}, 
